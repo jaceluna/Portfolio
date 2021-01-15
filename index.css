@@ -13,3 +13,11 @@
   font-size: 4em;
   text-align: center;
 }
+
+a:link{
+  color: inherit;
+}
+
+a:hover{
+  color: #666460;
+}
