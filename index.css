@@ -1,3 +1,11 @@
-#test, #name, #major-location{
+#test{
   text-align:center;
+}
+
+#major-location{
+  text-align: center;
+}
+
+#name{
+  text-align: center;
 }
