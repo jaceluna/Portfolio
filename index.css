@@ -22,3 +22,7 @@ a:link{
 a:hover{
   color: #666460;
 }
+
+a:visited{
+  color: inherit;
+}
